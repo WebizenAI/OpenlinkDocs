@@ -1,0 +1,1 @@
+Virtuoso supports LDAP servers.

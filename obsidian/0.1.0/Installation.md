@@ -1,4 +1,6 @@
-The Installation Guide is intended to provide a set-by-step guide in how to download and install Virtuoso.  The Commercial Version of Virtuoso offers a limited time trial, which may be helpful if you are interested in researching the product, and seeing whether or not its for you.
+The Installation Guide is intended to provide a set-by-step guide in how to download and install the Commercial Version of Virtuoso, which also offers a limited time trial, which may be helpful if you are interested in researching the product, and seeing whether or not its for you.
+
+Openlink Also offers an OpenSource version, based upon 7.x which can be found on [GitHub](https://github.com/openlink/virtuoso-opensource)
 
 ## Preparation Steps
 

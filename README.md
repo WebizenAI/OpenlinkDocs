@@ -15,11 +15,20 @@ Obsidian Files are (basically) markdown files.  To view, download (fork if desir
 The Obsidian Files are located in the obsidian folder.  This folder will contain Evolutions, with the first being an 0.1.0 objective, that will remain incomplete until version 1.0
 
 
+## Webizen Project
+
+The Webizen project is developing a new form of computing environment.  The methodology seeks to provide solutions that improve support for human rights and humanitarian ict foundations.
+
+When building a webizen local-host device and platform, there are various commponents that are needed, and then need to be configured in a particular way.  This then acts to provide a developer environment to produce new forms of applications and services.  Openlink Virtuoso, and related offerings, do not provide an entire solution, but they do provide a tried and tested foundation of systems and functionality that is of instrumental importance for these local-host platforms.  There are alternatives, which may be illustrated elsewhere, but with a view to seeking to recommend the use of virtuoso, these docs are being produced and i hope, are found helpful.
+
 ### NOTE
 
 This repo has just been initiated.  It will evolve, but will contain errors, etc.  For Official Documentation for Openlink Software, see their website: https://www.openlinksw.com/ and find the links.  This project is being undertaken as an Openlink Virtuoso Advocate and End-User.  Most resources, texts and materials sourced should contain a source-link.
 
 It is expected that the documentation will in-turn develop to illustrate local-host / webizen specific implementation guidenance, integration guides and similar which may be dependent upon openlink virtuoso, but also considereed seperate.  Where it makes sense to do so, updates and packages for Virtuoso will be considered and provided, somewhwere, somehow.! 
+
+Ideas that may relate to Openlink Software Virtuoso, may be initially considered in the obsidian docs, prior to formal evaluation. these notes will be in a seperate 'ideas' folder.
+
 
 ### License
 

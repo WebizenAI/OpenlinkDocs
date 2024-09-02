@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installation.md",
+                "file": "RDF-System/API Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeveloperGuide/VAL.md",
+                "file": "Installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DeveloperGuide/VAL.md",
+                "file": "RDF-System/API Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DeveloperGuide/VAL.md",
+                "file": "RDF-System/API Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DeveloperGuide/VAL.md"
+                "file": "RDF-System/API Functions.md"
               }
             }
           }
@@ -171,43 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f15ae6032079b1aa",
+  "active": "c09ca44bd1a47fc6",
   "lastOpenFiles": [
-    "DeveloperGuide/VAL/Namespaces/Namespace List.md",
-    "DeveloperGuide/VAL/Namespaces/Namespace Members/Functions.md",
-    "DeveloperGuide/VAL/Namespaces/Namespace Members/All.md",
-    "DeveloperGuide/VAL/Namespaces/Namespace List/VAL/Package VAL.VAL.md",
+    "RDF-System/SPARQL Inline in SQL.md",
+    "RDF-System/API Functions.md",
+    "RDF-System/Troubleshooting SPARQL Queries.md",
+    "RDF-System/SPARQL Web Services & APIs.md",
+    "RDF-System/SPARQL.md",
+    "RDF-System/Data Representation.md",
+    "RDF-System/RDF Data Access and Data Management.md",
+    "RDF-System/Data Representation",
+    "Apps/Sponger/Sponger and Nanotations.md",
+    "RDF-System",
+    "Apps/Sponger/Sponger Programmers Guide.md",
+    "Apps/Sponger/RDFizer Middleware (Sponger).md",
+    "Apps/Sponger.md",
+    "Apps/Sponger",
+    "Installation/VirtualDB/Sample ODBC Applications.md",
+    "Installation/VirtualDB/Sample ODBC & JDBC Applications.md",
+    "Installation/WebServer/Third-Party.md",
+    "Installation/WebServer/VSP Examples.md",
+    "Installation/WebServer/Dynamic Web Pages.md",
+    "Installation/Web Services/NNTP.md",
+    "Installation/VirtualDB/Tables With XML Columns.md",
+    "Installation/VirtualDB/FOR XML Execution Modes.md",
+    "Installation/VirtualDB/SQL to XML.md",
+    "Installation/VirtualDB/VSMX - Virtuoso Service Module for XML.md",
+    "Installation/Web Services/Publishing VSE's as Web Services.md",
+    "Installation/Web Services/XML Query Templates.md",
+    "Installation/Web Services/Publishing Stored Procedures as Web Services.md",
+    "Installation/Web Services/Exposing Persistent Stored Modules as Web Services.md",
+    "Installation/Web Services.md",
+    "Installation/Web Services",
+    "Installation/WebDAV",
+    "Installation/WebServer",
+    "Installation/VirtualDB",
     "DeveloperGuide/VAL/Namespaces/Namespace Members",
     "DeveloperGuide/VAL/Namespaces",
-    "DeveloperGuide/VAL/Namespaces/Namespace List/VAL/Package VAL.DBA.md",
-    "DeveloperGuide/VAL/Namespaces/Namespace List/db/Package DB.DBA.md",
-    "DeveloperGuide/VAL/Namespaces/Namespace List/VAL",
-    "DeveloperGuide/VAL/Namespaces/Namespace List/db",
-    "DeveloperGuide/VAL/Namespaces/Namespace List",
-    "DeveloperGuide/VAL/Modules/VAL Authentication API.md",
-    "DeveloperGuide/VAL/Modules/VAL Authentication API Tools.md",
-    "DeveloperGuide/VAL/Modules/VAL Internal ACL Utility API.md",
-    "DeveloperGuide/VAL/Modules/VAL Internal ACL API.md",
-    "DeveloperGuide/VAL/Modules/VAL Public ACL HTTP API.md",
-    "DeveloperGuide/VAL/Deprecated List.md",
-    "DeveloperGuide/VAL/Modules",
-    "DeveloperGuide/VAL/Supported Authentication Services and Methods.md",
-    "DeveloperGuide/VAL/VAL Tutorials.md",
-    "DeveloperGuide/VAL/VAL Internals - For Developers and Power-Users.md",
-    "DeveloperGuide/VAL/VAL Configuration.md",
-    "DeveloperGuide/VAL/The VAL ACL Rule and Group System.md",
-    "DeveloperGuide/VAL/VAL Overview.md",
-    "DeveloperGuide/VAL.md",
-    "DeveloperGuide/VAL",
-    "VIrtuoso 8/Version 8.md",
-    "DeveloperGuide/ODS API.md",
-    "VIrtuoso 8",
-    "DeveloperGuide/Ontologies.md",
-    "Apps/WebLog.md",
-    "Apps/Sponger.md",
-    "DeveloperGuide/HOW TO Create a Dynamic Website Using Virtuoso & VSP.md",
-    "Networking/WebID Protocol.md",
-    "Apps/BrowserExtensions",
-    "DeveloperGuide"
+    "DeveloperGuide/VAL/Namespaces/Namespace List/VAL"
   ]
 }

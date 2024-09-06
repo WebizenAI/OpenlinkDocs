@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b568064b56bb054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "support.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c09ca44bd1a47fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDF-System/API Functions.md",
+                "file": "ToDoItems/Semantic Social Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b568064b56bb054",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDF-System/API Functions.md",
+                "file": "ToDoItems/Semantic Social Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDF-System/API Functions.md",
+                "file": "ToDoItems/Semantic Social Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +145,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDF-System/API Functions.md"
+                "file": "ToDoItems/Semantic Social Web.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c09ca44bd1a47fc6",
+  "active": "f99c7e2ccf1e58c1",
   "lastOpenFiles": [
-    "RDF-System/SPARQL Inline in SQL.md",
+    "Documents/virtuoso-management-overview-140828102425-phpapp02.pdf",
+    "Documents/2008_OpenLink_DataPortabilityandDataSpaces.pdf",
+    "Documents/2008_20-idehen-erling-linked-data-spaces.pdf",
+    "Documents",
+    "ToDoItems/TO DO ITEMS.md",
+    "ToDoItems/Semantic Social Web.md",
+    "Welcome.md",
+    "ToDoItems",
     "RDF-System/API Functions.md",
+    "Installation.md",
+    "support.md",
+    "RDF-System/SPARQL Inline in SQL.md",
     "RDF-System/Troubleshooting SPARQL Queries.md",
     "RDF-System/SPARQL Web Services & APIs.md",
     "RDF-System/SPARQL.md",
@@ -196,18 +201,8 @@
     "Installation/VirtualDB/Tables With XML Columns.md",
     "Installation/VirtualDB/FOR XML Execution Modes.md",
     "Installation/VirtualDB/SQL to XML.md",
-    "Installation/VirtualDB/VSMX - Virtuoso Service Module for XML.md",
-    "Installation/Web Services/Publishing VSE's as Web Services.md",
-    "Installation/Web Services/XML Query Templates.md",
-    "Installation/Web Services/Publishing Stored Procedures as Web Services.md",
-    "Installation/Web Services/Exposing Persistent Stored Modules as Web Services.md",
-    "Installation/Web Services.md",
     "Installation/Web Services",
     "Installation/WebDAV",
-    "Installation/WebServer",
-    "Installation/VirtualDB",
-    "DeveloperGuide/VAL/Namespaces/Namespace Members",
-    "DeveloperGuide/VAL/Namespaces",
-    "DeveloperGuide/VAL/Namespaces/Namespace List/VAL"
+    "Installation/WebServer"
   ]
 }
